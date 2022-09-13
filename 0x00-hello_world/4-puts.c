@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main – Printing with C
+ * main – Print exactly programming
  *
  * Description: Program that prints
  *
