@@ -2,9 +2,9 @@
 
 
 /**
- * main – Printing with C
+ * main – Printing
  *
- * Return: Always 0 (Succeeded)
+ * Return: Always 0 (Success)
 */
 
 int main(void)
