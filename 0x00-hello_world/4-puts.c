@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 
-
 /**
  * main – Printing with C
  *
