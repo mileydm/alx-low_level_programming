@@ -1,1 +1,1 @@
-Wrote a script that compiled a C file and creates an executable named cisfun
+Wrote a C program that prints exactly Programming is like building a multilingual puzzle
