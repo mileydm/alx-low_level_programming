@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main – Print exactly programming
+ *Description: main – Print out exactly a string.
  *
- * Description: Program that prints
  *
  * Return: Always 0 (Succeeded)
 */
