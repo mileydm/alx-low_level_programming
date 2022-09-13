@@ -1,1 +1,1 @@
-Wrote a script that generates the assembly code of a C code and saved it in an output file
+Wrote a script that compiled a C file and creates an executable named cisfun
