@@ -1,1 +1,1 @@
-All about programming in C
+Wrote a script that compiles a C file but does not link
