@@ -3,6 +3,8 @@
 /**
  * main – Printing with C
  *
+ * Description: 'Program taht prints'
+ *
  * Return: Always 0 (Succeeded)
 */
 
