@@ -1,9 +1,11 @@
-#include <stdio.h>                                                
-                                                                 i/**                                                               
- * main - Printing with C                                          *
+#include <studio>
+
+/**
+ * main - Printing with C
+ *
  * Return: Always 0 (Succeeded)
- */
-int man(void)
+ * */
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
