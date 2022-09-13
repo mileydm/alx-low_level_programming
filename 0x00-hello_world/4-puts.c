@@ -3,7 +3,7 @@
 /**
  * main – Printing with C
  *
- * Description: 'Program taht prints'
+ * Description: Program that prints
  *
  * Return: Always 0 (Succeeded)
 */
