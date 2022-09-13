@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-
 /**
- * main – Printing
+ * main – Printing with C
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (Succeeded)
 */
 
 int main(void)
