@@ -1,1 +1,1 @@
-Main header file
+Write a function that concatenates two strings
